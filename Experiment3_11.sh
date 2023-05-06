@@ -1,3 +1,5 @@
+#AIM : Shell programming using filters (including grep, egrep, fgrep)
+
 echo "Main Menu"
 echo "Press 1 for using Grep command"
 echo "Press 2 for using Egrep Command"
