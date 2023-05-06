@@ -1,3 +1,5 @@
+#AIM : Write a shell script to generate mark sheet of a student. Take 3 subjects, calculate and display total marks, percentage and Class obtained by the student.
+
 echo "Marksheet of students"
 echo "Enter the Marks of Oops subject: "
 read oops
