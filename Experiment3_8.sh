@@ -1,3 +1,5 @@
+#AIM : Write a shell script to read n numbers as command arguments and sort them in descending order.
+
 $ cat t.sh
 #!/bin/sh
 read -p "Enter The Number: " n
