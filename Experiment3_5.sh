@@ -1,3 +1,5 @@
+#AIM : Write a shell script which will accept a number b and display first n prime numbers as output.
+
 read -p "Enter the number: " b
 echo "The prime numbers  till $b are: "
 m=2
