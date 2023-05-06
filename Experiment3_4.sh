@@ -1,3 +1,5 @@
+#AIM : Write a shell script to find factorial of given number n.
+
 echo "Enetr the number: "
 read n
 
