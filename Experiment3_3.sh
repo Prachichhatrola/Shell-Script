@@ -1,3 +1,5 @@
+#AIM : Write a shell script to display multiplication table of given number.
+
 echo "Enetr the number to Generate MultiplicationTable"
 read -p "Enter the number : " number
 echo "***********************"
