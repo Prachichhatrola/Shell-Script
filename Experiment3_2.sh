@@ -1,3 +1,5 @@
+#AIM : Write a shell script which gives sum of 4 numbers.
+
 echo "Sum of 4 numbers"
 echo "Enter 1st number: "
 read a
