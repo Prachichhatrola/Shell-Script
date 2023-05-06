@@ -1,3 +1,5 @@
+#AIM : Write a shell script to display all executable files, directories and zero sized files from current directory.
+
 echo Executable files
 files=$(find Experiment3_1.sh -executable -type f)
 echo $files
