@@ -1,5 +1,6 @@
 #AIM : Write a shell script to check entered string is palindrome or not.
 
+#!/bin/bash
 echo "Enter a String: "
 read string
 length=${#string}
