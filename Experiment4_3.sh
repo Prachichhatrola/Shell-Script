@@ -1,3 +1,5 @@
+#AIM : Write a shell sript which prints pattern.
+
 #! /bin/bash
 
 for((i=3; i>=1; i--))
