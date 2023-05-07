@@ -1,3 +1,5 @@
+#AIM : Write a shell script ehich prints pattern.
+
 #!/bin/bash
 for ((i=0; i<=4; i++))
 do
